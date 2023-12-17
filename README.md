@@ -1,4 +1,9 @@
-# React + Vite
+# Job board - Exercise with React & Vite
+
+Exercise made during fullstack developper bootcamp training provided by [Le Reacteur](https://www.lereacteur.io/).  
+Fourth part: [React](https://react.dev/blog/2023/03/16/introducing-react-dev).
+
+## React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 

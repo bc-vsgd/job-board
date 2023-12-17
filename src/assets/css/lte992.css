@@ -1,0 +1,16 @@
+@media (max-width: 992px) {
+  header p {
+    font-size: 28px;
+    line-height: 32px;
+    padding: 10px;
+  }
+
+  .jobs {
+    width: 95vw;
+    justify-content: center;
+  }
+
+  footer {
+    padding: 10px;
+  }
+}
